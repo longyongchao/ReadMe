@@ -1,5 +1,5 @@
 # README
 
-## [My resume](www.github.com/AllenLoooong/ReadMe/myresume.md "我的简历")
+## [My resume](https://github.com/AllenLoooong/ReadMe/blob/master/myresume.md "我的简历")
 
 
