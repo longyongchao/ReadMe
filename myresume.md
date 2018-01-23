@@ -1,11 +1,11 @@
 
-- [中文](#我的简历) 
+- [中文](#龙泳潮) 
 	- [基本信息](#基本信息)   	    
 	- [教育经历](#教育经历)   	    
 	- [工作经历](#工作经历)   	    
 	- [自我评价](#自我评价)   	    
 
-- [English](#my-resume)  	
+- [English](#allen-long)  	
 	- [Basic Information](#basic-information)     	        
 	- [Educational Experience](#educational-experience)       	      
 	- [Work Experience](#work-experience)          	  
@@ -13,7 +13,7 @@
 
 
 
-# 我的简历
+# 龙泳潮
 ---
 
 > 邮件：long.allen@outlook.com	
@@ -25,6 +25,10 @@
 ---
 
 ### 基本信息
+
+姓名|性别|出生时间|籍贯|住址
+---|---|---|---|---
+龙泳潮|男|1994/03|广东省阳春市|深圳市南山区西丽大学城
 
 ### 教育经历
 ### 工作经历
@@ -42,7 +46,7 @@
 	
 	
 	
-# My Resume
+# Allen Long
 ---
 
 > Email : long.allen@outlook.com
