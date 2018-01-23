@@ -58,37 +58,32 @@
 	- [有刷直流电机驱动器](https://toshiba.semicon-storage.com/cn/product/linear/motordriver/brush-motor.html)		
 	- [无刷直流电机驱动器](https://toshiba.semicon-storage.com/cn/product/linear/motordriver/brushless-motor-2.html)		
 	- [步进电机驱动器](https://toshiba.semicon-storage.com/cn/product/linear/motordriver/stepping-motor-2.html)		
-- 负责家电及工业组的[MCU](https://toshiba.semicon-storage.com/cn/product/microcomputer/lineup/arm-micon.html)的硬件设计以及PCB Layout。
+- 负责东芝[MCU](https://toshiba.semicon-storage.com/cn/product/microcomputer/lineup/arm-micon.html)的硬件设计以及PCB Layout。
 
 #### 项目经历
-> 以下项目实施的过程中，除了遇到难题的时候会请求东芝日本总部的帮助，具体的操作基本由本人一人完成。
+> 以下项目实施的过程中，除了遇到难题的时候会请求东芝日本总部的帮助，具体的操作基本由本人一人完成。		
 
-- [TB6605FTG](https://toshiba.semicon-storage.com/cn/product/linear/motordriver/detail.TB6605FTG.html)的三相无刷直流电机方案设计
->> 2017.02-2017.04
-	- 背景：给[格力](http://www.gree.com.cn)一款外销风机产品做的闭环控制方案，需完成电路设计以及成品PCB的Layout。
-	- 成果：电机的性能得到了格力的认可。
+- [TB6605FTG](https://toshiba.semicon-storage.com/cn/product/linear/motordriver/detail.TB6605FTG.html)的三相无刷直流电机方案设计（2017.02-2017.04）		
+	- 背景：给[格力](http://www.gree.com.cn)一款外销风机产品做的闭环控制方案，需完成电路设计以及成品PCB的Layout。		
+	- 成果：电机的性能得到了格力的认可。		
 	
-- [TMPM3H系列](https://toshiba.semicon-storage.com/cn/design-support/search/multiSearch.1.1.TMPM3H.html)的开发板设计
->> 2017.04-2017.05
-	- 背景：用于交由客户评估测试具有一定外设模块的开发板。
+- [TMPM3H系列](https://toshiba.semicon-storage.com/cn/design-support/search/multiSearch.1.1.TMPM3H.html)的开发板设计（2017.04-2017.05）		
+	- 背景：用于交由客户评估测试具有一定外设模块的开发板。		
 
-- [TB67S289FTG](https://toshiba.semicon-storage.com/cn/product/linear/motordriver/detail.TB67S289FTG.html)的步进电机方案设计
->> 2017.07-2017.08
-	- 背景：给[富源盛](http://www.fysetc.com/store/)一款基于Arduino Mega 2560的3D打印机设计的步进电机驱动模块。
-	- 成果：成品PCB已交给客户，等待客户评估。
+- [TB67S289FTG](https://toshiba.semicon-storage.com/cn/product/linear/motordriver/detail.TB67S289FTG.html)的步进电机方案设计（2017.07-2017.08）		
+	- 背景：给[富源盛](http://www.fysetc.com/store/)一款基于Arduino Mega 2560的3D打印机设计的步进电机驱动模块。		
+	- 成果：成品PCB已交给客户，等待客户评估。		
 
-- 用于测试[TB67B000HG](https://toshiba.semicon-storage.com/cn/product/linear/motordriver/detail.TB67B000HG.html)的交流转直流高压开关电源板设计
->> 2017.11-2017.12
-	- 背景：由于TB67B000HG是峰值可以达到500V直流输入的三相无刷电机驱动器，常用于空调的风机。测试需要310V的直流电源、15V直流电源以及0～5V的可调直流电源。
+- 用于测试[TB67B000HG](https://toshiba.semicon-storage.com/cn/product/linear/motordriver/detail.TB67B000HG.html)的交流转直流高压开关电源板设计（2017.11-2017.12）		
+	- 背景：由于TB67B000HG是峰值可以达到500V直流输入的三相无刷电机驱动器，常用于空调的风机。测试需要310V的直流电源、15V直流电源以及0～5V的可调直流电源。		
 	
-- 各种电机驱动器Demo Board的设计与Layout
->> 因为东芝电机驱动器的产品线达到166个，如果客户要测试某款IC的时候，需要提供相应的Demo Board，因此设计Demo Board也就成了日常工作之一。
+- 各种电机驱动器Demo Board的设计与Layout		
+	- 因为东芝电机驱动器的产品线达到166个，如果客户要测试某款IC的时候，需要提供相应的Demo Board，因此设计Demo Board也就成了日常工作之一。		
+- 各种书面的或现场的技术支持		
+	- 客户使用东芝产品会遇到各种问题，我们需要给予支持和帮助，这是日常工作之二。		
 
-- 各种书面的或现场的技术支持
->> 客户使用东芝产品会遇到各种问题，我们需要给予支持和帮助，这是日常工作之二。
-
-- 访客
->> 对于公司来说，挖掘潜在的客户直至客户下订单是最重要的过程。期间，我们工程师需要在技术层面推销我们的产品，这是日常工作之三。
+- 访客		
+	- 对于公司来说，挖掘潜在的客户直至客户下订单是最重要的过程。期间，我们工程师需要在技术层面推销我们的产品，这是日常工作之三。		
 
 ## 自我评价
 		
