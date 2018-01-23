@@ -3,16 +3,12 @@
 	- [基本信息](#基本信息)   	    
 	- [教育经历](#教育经历)   	    
 	- [工作经历](#工作经历)   	    
-	- [自我评价](#自我评价)   	    
-
-- [English](#allen-long)  	
+   	    
+- [English](#allen-long)(to be continued...) 	
 	- [Basic Information](#basic-information)     	        
 	- [Educational Experience](#educational-experience)       	      
 	- [Work Experience](#work-experience)          	  
-	- [Self Evaluation](#self-evaluation)        	 
-
-
-
+     	 
 # 龙泳潮
 ---
 
@@ -78,15 +74,15 @@
 	- 背景：由于TB67B000HG是峰值可以达到500V直流输入的三相无刷电机驱动器，常用于空调的风机。测试需要310V的直流电源、15V直流电源以及0～5V的可调直流电源。		
 	
 - **各种电机驱动器Demo Board的设计与Layout**		
-	- 因为东芝电机驱动器的产品线达到166个，如果客户要测试某款IC的时候，需要提供相应的Demo Board，因此设计Demo Board也就成了日常工作之一。		
+	- 因为东芝电机驱动器的产品线达到166个，如果客户要测试某款IC的时候，需要提供相应的Demo Board，因此设计Demo Board是日常工作之一。		
 - **各种书面的或现场的技术支持**		
 	- 客户使用东芝产品会遇到各种问题，我们需要给予支持和帮助，这是日常工作之二。		
 
 - **拜访客户**		
 	- 对于公司来说，挖掘潜在的客户直至客户下订单是最重要的过程。期间，我们工程师需要在技术层面推销我们的产品，这是日常工作之三。		
 
-## 自我评价
-		
+
+
 # Allen Long
 ---
 
@@ -106,4 +102,3 @@ Allen Long|Male|March 1994|YangChun,GuangDong|Xili University Town,ShenZhen
 
 ## Educational Experience
 ## Work Experience
-## Self Evaluation
