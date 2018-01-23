@@ -15,9 +15,13 @@
 
 # 龙泳潮
 ---
-> 邮件：long.allen@outlook.com       
-> 手机：18688743767      
-> 微信：774817136      
+
+> 邮件：long.allen@outlook.com	
+
+> 手机：18688743767	
+
+> 微信：774817136		
+
 ---
 
 ## 基本信息
@@ -28,9 +32,13 @@
 
 # Allen Long
 ---
-> Email: long.allen@outlook.com
-> Tel: 18688743767
-> Wechat: 774817136
+
+> Email : long.allen@outlook.com
+
+> Tel : 18688743767			
+
+> Wechat : 774817136	
+
 ---
 
 ## Basic Information
