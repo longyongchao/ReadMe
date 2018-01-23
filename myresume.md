@@ -31,21 +31,14 @@
 龙泳潮|男|1994/03|广东省阳春市|深圳市南山区西丽大学城
 
 ### 教育经历
+
+- 北京师范大学珠海分校
+> 电气工程及其自动化（本科）		
+>> 2013.09至2017.07		
+
 ### 工作经历
 ### 自我评价
-	
-	
-	
-	
-	
 		
-				
-					
-	
-	
-	
-	
-	
 # Allen Long
 ---
 
@@ -58,6 +51,11 @@
 ---
 
 ### Basic Information
+
+Name|Sex|Birth|Ancestral home|Address
+---|---|---|---|---
+Allen Long|Male|March 1994|YangChun,GuangDong|Xili University Town,ShenZhen
+
 ### Educational Experience
 ### Work Experience
 ### Self Evaluation
