@@ -34,11 +34,11 @@
 
 #### 在校经历
 
-1. [第十二届全国大学生电子设计竞赛本科组团队赛](http://nuedc.com.cn "全国大学生电子设计竞赛官网") 
+1. [**第十二届全国大学生电子设计竞赛本科组团队赛**](http://nuedc.com.cn "全国大学生电子设计竞赛官网") 
 	- 比赛要求：在四天三夜的时间内，设计并制作出[风力摆控制系统](https://wenku.baidu.com/view/b0351387866fb84ae45c8dd4.html)。
 	- 我的职责：负责硬件部分，包括电子元器件选型、电路图设计、PCB制作和电机底层驱动代码的编写。
 
-2. [第七届蓝桥杯大赛嵌入式设计与开发组](http://dasai.lanqiao.cn "蓝桥杯大赛官网")
+2. [**第七届蓝桥杯大赛嵌入式设计与开发组**](http://dasai.lanqiao.cn "蓝桥杯大赛官网")
 	- 比赛要求：在STM32F103RBT6的开发板上，五个小时之内实现[题目的要求](http://upload.lanqiao.cn/file/20161107/1478502743167782.pdf)。
 	- 获奖结果：省赛三等奖。
 
@@ -49,8 +49,7 @@
 >> 2017.01至今
 
 #### 工作职责
-- 负责华南地区的[消费类和家电类电机驱动IC](https://toshiba.semicon-storage.com/cn/product/linear/motordriver.html)的技术支持、方案设计以及市场调研。
-- 具体负责的电机驱动IC包括：
+- 负责华南地区的[消费类和家电类电机驱动IC](https://toshiba.semicon-storage.com/cn/product/linear/motordriver.html)的技术支持、方案设计以及市场调研。具体负责的电机驱动IC包括：		
 	- [有刷直流电机驱动器](https://toshiba.semicon-storage.com/cn/product/linear/motordriver/brush-motor.html)		
 	- [无刷直流电机驱动器](https://toshiba.semicon-storage.com/cn/product/linear/motordriver/brushless-motor-2.html)		
 	- [步进电机驱动器](https://toshiba.semicon-storage.com/cn/product/linear/motordriver/stepping-motor-2.html)		
