@@ -1,11 +1,11 @@
 
-- [中文](#龙泳潮) 	     
+- [中文](#我的简历) 
 	- [基本信息](#基本信息)   	    
 	- [教育经历](#教育经历)   	    
 	- [工作经历](#工作经历)   	    
 	- [自我评价](#自我评价)   	    
 
-- [English](#allen-long)  	
+- [English](#my-resume)  	
 	- [Basic Information](#basic-information)     	        
 	- [Educational Experience](#educational-experience)       	      
 	- [Work Experience](#work-experience)          	  
@@ -13,7 +13,7 @@
 
 
 
-# 龙泳潮
+# 我的简历
 ---
 
 > 邮件：long.allen@outlook.com	
@@ -24,13 +24,25 @@
 
 ---
 
-## 基本信息
-## 教育经历
-## 工作经历
-## 自我评价
+### 基本信息
 
-
-# Allen Long
+### 教育经历
+### 工作经历
+### 自我评价
+	
+	
+	
+	
+	
+		
+				
+					
+	
+	
+	
+	
+	
+# My Resume
 ---
 
 > Email : long.allen@outlook.com
@@ -41,7 +53,7 @@
 
 ---
 
-## Basic Information
-## Educational Experience
-## Work Experience
-## Self Evaluation
+### Basic Information
+### Educational Experience
+### Work Experience
+### Self Evaluation
