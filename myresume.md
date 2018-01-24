@@ -24,7 +24,7 @@
 
 龙泳潮|性别|出生时间|籍贯|住址
 ---|---|---|---|---
-![龙泳潮]()|男|1994/03|广东省阳春市|深圳市南山区西丽大学城
+<img src="https://raw.githubusercontent.com/AllenLoooong/ReadMe/master/pictures/头像.jpg" width = "100" height = "100" alt="image name" align=center />|男|1994/03|广东省阳春市|深圳市南山区西丽大学城
 
 ## 教育经历
 
